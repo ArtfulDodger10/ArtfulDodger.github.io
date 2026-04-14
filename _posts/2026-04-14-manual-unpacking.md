@@ -1,8 +1,8 @@
 ---
 title: "Manual Unpacking"
 date: 2026-04-14 00-00-00 +0800
-categories: [Unpacking]
+categories: [Reverse Engineering]
 tags: [Unpacking, Manual Unpacking, Reverse Engineering, Malware Analysis, CTFs]
 ---
 # Hello World
-This is my unpacking first post
+This is my unpacking first 
