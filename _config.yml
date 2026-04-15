@@ -16,7 +16,7 @@ timezone:
 
 title: Artful Dodger # the main title
 
-tagline: Reverse Engineer & Malware Analyst   # it will display as the subtitle
+tagline: Reverse Engineer & Malware Analyst    # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Welcome to the Ultimate Reverse Engineering and Malware Analysis Blog You will ever see
